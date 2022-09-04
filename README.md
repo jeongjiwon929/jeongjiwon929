@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=300&section=header&text=JI%20WON%20JEONG💻&fontSize=50&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3A4A51&height=300&section=header&text=JI%20WON%20JEONG&fontSize=50&fontColor=f7f5f5)
 
 
 <h3 align="center"><b>📝skills to learn📝</b></h3>
@@ -19,7 +19,7 @@
 </br>
 </br>
 </br>
-<h3 align="center"<b>🐥me🐥</b></h3>
+<h3 align="center"<b>👉me👈</b></h3>
 
 - - -
 
