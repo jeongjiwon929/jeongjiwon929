@@ -23,7 +23,7 @@
 
 - - -
 
- <a href="https://www.instagram.com/ji_won_0929/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/zi._won1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
