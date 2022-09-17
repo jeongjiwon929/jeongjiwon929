@@ -5,8 +5,6 @@
 <br/>
 <br/>
 <br/>
-<img width="250px" img height="230px" src="https://user-images.githubusercontent.com/88700479/189531097-1384206d-bef8-41f9-b070-99afcea6b41b.png"/>
-<br/>
 <br/>
 <h2 align="center"><b>🌼Tech stack🌼<b></h2>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
